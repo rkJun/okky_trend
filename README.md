@@ -1,5 +1,7 @@
 # okky_trend
 
+[![Gem Version](https://badge.fury.io/rb/okky_trend.svg)](https://badge.fury.io/rb/okky_trend)
+
 `okky_trend` is a gem that fetches [Latest articles of developer's life on OKKY](https://okky.kr/articles/community?query=&sort=id&order=desc).
 And this also work as a command line utility.
 
