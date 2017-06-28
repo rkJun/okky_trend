@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'okky_trend'
+OkkyTrend.get
