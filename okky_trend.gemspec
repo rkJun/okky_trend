@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.authors     = ["Juntai Park"]
   spec.email       = ["juntai81@gmail.com"]
   spec.files       = ["lib/okky_trend.rb", "lib/okky_trend/translator.rb", "lib/okky_trend/scraper.rb", "lib/okky_trend/version.rb"]
-  spec.homepage    = "http://rubygems.org/gems/okky_trend"
+  spec.homepage    = "https://github.com/rkjun/okky_trend"
   spec.license     = "MIT"
 
   spec.add_runtime_dependency "mechanize", '~> 2.7', '>= 2.7.5'
